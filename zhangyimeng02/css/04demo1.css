@@ -1,0 +1,457 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration: none;
+}
+.clear:after{
+	content:"";
+	height:0px;
+	display:block;
+	clear:both;
+}
+/**/
+.part1{
+	height: 153px;
+	width:100%;
+}
+.header2{
+	height: 153px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.img1{
+	margin-top: 31px;
+}
+.img2{
+	margin-left: 20px;
+	margin-top: 47px;
+}
+.header2 img{
+	float: left;
+}
+.tel{
+	float: left;
+	margin: 0 auto;
+	margin-top: 55px;
+	margin-left: 200px;
+	font-size: 22px;
+	color: #0b4199;
+}
+.Chinese{
+	float: left;
+	color: #9a9a9a;
+	margin-left: 30px;
+	margin-top: 57px;
+	font-size: 16px;
+}
+.nav1 li{
+	float: left;
+	padding-left: 2px;
+	padding-right: 8px;
+	background: url(../images/zhangyimeng/zline1.png) no-repeat right;
+}
+.nav1 li:last-child{
+	background: none;
+}
+.nav1 li img{
+	float: right;
+}
+.nav1{
+	float: left;
+	margin-top: 57px;
+	margin-left: 20px;
+	color: #9a9a9a;
+	font-size: 16px;
+}
+.nav1 li:first-child{
+	color: #ef2c34;
+}
+.nav2{
+	padding-top: 103px;
+}
+.nav2 li{
+	float: left;
+	padding-right:35px; 
+}
+.nav2 div{
+	font-size: 16px;
+	line-height: 42px;
+	text-align: center;
+    width: 82px;
+    height: 50px;
+}
+.chanpin{
+	color: #fff;
+	background-color: #2756a4;
+}
+.sousuo{
+	float: right;
+	width: 253px;
+	height: 37px;
+	background: url(../images/zhangyimeng/zsousuo.png) no-repeat right;
+}
+/**/
+/*toutou开始*/
+.toutou{
+	height:176px;
+	width:100%;
+	background: #f9f9f9;
+}
+.slice{
+	width:1200px;
+	margin:0 auto;
+	padding-top:18px;
+}
+.slice span:first-child{
+	font-size:14px;
+	color:#999999;
+}
+.slice span:last-child{
+	font-size:14px;
+	color:#0b4199;	
+}
+.slice p{
+	margin-top:50px;
+	margin-bottom:14px;
+}
+.situ{
+	width:1200px;
+	padding-bottom:25px;
+	border-bottom:1px dashed #cfcfcf;
+}
+.situ img{
+	float:right;	
+}
+/*toutou结束*/
+/*tou01开始*/
+.tou01{
+	width:100%;
+	height:97px;
+	background: #f9f9f9;
+}
+.tou01 ul{
+	width:1200px;
+	margin:0 auto;
+	padding-top:57px;
+	height:28px;
+	border-bottom:9px solid #0b4199;
+}
+.tou01 li{
+	float:left;
+	height:29px;
+	width:116px;
+	text-align: center;
+	line-height: 29px;
+	background-color: #5f5d5d;
+	color:#fff;
+}
+.tou01 li:first-child{
+	margin-left:30px;
+	background-color:#0b4199;
+}
+/*tou01结束*/
+/*tou02开始*/
+.tou02{
+	width:100%;
+	height:508px;
+	background: #f9f9f9;
+}
+.tou03{
+	width:1200px;
+	margin:0 auto;
+	height:508px;
+	background: #fff;
+	border-bottom:4px solid #949494;
+}
+.leftle{
+	float:left;
+	margin-left:30px;
+	position: relative;
+}
+.leftle img:first-child{
+	margin-left:93px;
+	margin-right:67px;
+}
+.zzuo{
+	position: absolute;
+	top:260px;
+	left:0px;
+}
+.zyou{
+	position: absolute;
+	top:260px;
+	right:0px;
+}
+.rightr{
+	float:right;
+	margin-right:30px;
+	width:463px;
+}
+.rightr p{
+	float:left;
+	margin-left:11px;
+}
+.rightr p:first-child{
+	margin-top:75px;
+	margin-bottom:71px;
+	font-size:24px;
+	color:#3e3e3e;
+}
+.rightr p:last-child{
+	margin-top:40px;
+	font-weight: bold;
+	width:229px;
+	height:50px;
+	background: #2756a4;
+	text-align: center;
+	line-height: 50px;
+	font-size:24px;
+	color:#fff;
+	border-radius:8px;
+	margin-left: 233px;
+}
+.zhuangzhi{
+	font-size:14px;
+	color:#3e3e3e;
+}
+/*tou02结束*/
+/*tou04开始*/
+.tou04{
+	width:100%;
+	height:365px;
+	background: #f9f9f9;
+}
+.tou05{
+	width:1200px;
+	margin:0 auto;
+	height:365px;
+	background: #fff;
+	border-bottom:4px solid #949494;
+	border-top:4px solid #949494;
+	position: relative;
+}
+.tou05 p:first-child{
+	margin-left:30px;
+	font-weight:bold;
+	font-size:22px;
+	color:#2756a4;
+	margin-top:30px;
+	margin-bottom:13px;
+}
+.zhibiao{
+	margin-left:30px;
+	color:#434343;
+	margin-top:40px;
+}
+.xishou{
+	margin-left:30px;
+	color:#434343;
+}
+.tou05 ul{
+	margin-left:63px;
+}
+.tou05 ul li{
+	margin-top:13px;
+	color:#434343;
+}
+.tou05 img{
+	position: absolute;
+	bottom:0px;
+	left:550px;
+}
+/*tou04结束*/
+/*lalalala开始*/
+.lalalala{
+	width:100%;
+	background: #f9f9f9;
+}
+.minging{
+	padding-top:83px;
+	background: #ffffff;
+	margin:0 auto;
+	width:1200px;
+	height:425px;
+}
+.minging>p{
+	margin-bottom:19px;
+	font-size:22px;
+	color:#333333;
+	margin-left:30px;
+}
+.ming li{
+	float:left;
+	width:300px;
+	height:201px;
+	border:1px solid #c9c9c9;
+	padding-top:10px;
+}
+.ming li:first-child{
+	margin-left:29px;
+	margin-right:120px;
+}
+.ming li:last-child{
+	margin-left:110px;
+	margin-right:29px;
+}
+.im1{
+	text-align: center;
+}
+.im2{
+	text-align: center;
+}
+.im3{
+	text-align: center;
+}
+.zizi1{
+	font-size: 14px;
+	text-align: center;
+	color:#3e3e3e ;
+	margin-top:17px;
+}
+.zizi4{
+	font-size: 14px;
+	text-align: center;
+	color: #0b4199;
+	margin-top:16px;
+}
+/*tou04结束*/
+/**/
+.kkkk{
+	width:100%;
+	height:60px;
+	background: #f9f9f9;
+}
+/**/
+/*yitu开始*/
+.yitu{
+	width:100%;
+	background: #f9f9f9;
+}
+.datu{
+	width:1200px;
+	height:261px;
+	margin:0 auto;
+	background: #fff;
+}
+/**/
+.blu{
+	width:100%;
+	height:60px;
+	background: #0b4199;
+}
+.blue{
+	width:1200px;
+	height:60px;
+	margin:0 auto;
+}
+.lan{
+	float:left;
+}
+.lan li{
+	float:left;
+}
+.bl1{
+	margin-top:10px;
+}
+.bl2{
+	margin-top:19px;
+	margin-right:157px;
+	margin-left:2px;
+	font-size:18px;
+	color:#ffffff;
+}
+.bl3{
+	margin-top:11px;
+}
+.bl4{
+	margin-top:18px;
+	color:#ffffff;
+}
+.lan2{
+	float:right;
+}
+.lan2 li{
+	float:left;
+}
+.lann1{
+	margin-top:14px;
+	font-size:#ffffff;
+}
+.lann2,.lann3,.lann4{
+	margin-left:10px;
+	margin-top:10px;
+}
+/**/
+/**/
+.bobobo{
+	width:100%;
+	height:303px;
+	background: #454545;
+}
+.bobo{
+	width:1200px;
+	height:303px;
+	margin:0 auto;
+	position:relative;
+}
+.bobo ul{
+	margin-right:67px;
+	color:#ffffff;
+	float:left;
+	font-size:14px;
+}
+.boo{
+	margin-top:55px;
+}
+.zuihou1{
+	font-size:16px;
+	margin-bottom:22px;
+}
+.zuihou2,.zuihou3,.zuihou4,.zuihou5{
+	margin-top:7px;
+}
+.bobo ul:last-child{
+	float:right;
+}
+.log1{
+	margin-top:32px;
+}
+.log3{
+	margin-top:27px;
+	font-size:12px;
+}
+.log4,.log6{
+	margin-top:9px;
+	margin-bottom:14px;
+	padding-left:55px;
+	font-size:12px;
+}
+.log5{
+	font-size:12px;
+	padding-left:25px;
+}
+.log6{
+	font-size:12px;
+}
+.bott1{
+	position:absolute;
+	bottom:15px;
+	left:135px;
+	font-size: 12px;
+}
+.bott2{
+	position:absolute;
+	bottom:15px;
+	right:145px;
+	font-size: 12px;
+}
+.piao{
+	position: fixed;
+	top:288px;
+	right:60px;
+}

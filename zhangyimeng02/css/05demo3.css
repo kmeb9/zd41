@@ -1,0 +1,313 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration: none;
+}
+.piao{
+	position: fixed;
+	top:288px;
+	right:60px;
+}
+/**/
+.part1{
+	height: 153px;
+	width:100%;
+}
+.header2{
+	height: 153px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.img1{
+	margin-top: 31px;
+}
+.img2{
+	margin-left: 20px;
+	margin-top: 47px;
+}
+.header2 img{
+	float: left;
+}
+.tel{
+	float: left;
+	margin: 0 auto;
+	margin-top: 55px;
+	margin-left: 200px;
+	font-size: 22px;
+	color: #0b4199;
+}
+.Chinese{
+	float: left;
+	color: #9a9a9a;
+	margin-left: 30px;
+	margin-top: 57px;
+	font-size: 16px;
+}
+.nav1 li{
+	float: left;
+	padding-left: 2px;
+	padding-right: 8px;
+	background: url(../images/zhangyimeng/zline1.png) no-repeat right;
+}
+.nav1 li:last-child{
+	background: none;
+}
+.nav1 li img{
+	float: right;
+}
+.nav1{
+	float: left;
+	margin-top: 57px;
+	margin-left: 20px;
+	color: #9a9a9a;
+	font-size: 16px;
+}
+.nav1 li:first-child{
+	color: #ef2c34;
+}
+.nav2{
+	padding-top: 103px;
+}
+.nav2 li{
+	float: left;
+	padding-right:35px; 
+}
+.nav2 div{
+	font-size: 16px;
+	line-height: 42px;
+	text-align: center;
+    width: 82px;
+    height: 50px;
+}
+.chanpin{
+	color: #fff;
+	background-color: #2756a4;
+}
+.sousuo{
+	float: right;
+	width: 253px;
+	height: 37px;
+	background: url(../images/zhangyimeng/zsousuo.png) no-repeat right;
+}
+/**/
+/**/
+.toutou{
+	height:199px;
+	width:100%;
+	background: #f9f9f9;
+}
+.slice{
+	width:1200px;
+	margin:0 auto;
+	height:199px;
+}
+.sli{
+	padding-top:18px;
+}
+.sli1{
+	font-size:14px;
+	color:#999999;
+}
+.sli2{
+	font-size:14px;
+	color:#0b4199;	
+}
+.dongtai{
+	margin-top:63px;
+	margin-bottom:16px;
+	font-size:24px;
+	color:#3e3e3e;	
+}
+.eng{
+	font-size:14px;
+	color:#666666;
+}
+/**/
+/**/
+.zhongzh{
+	width: 100%;
+	background: #f9f9f9;
+}
+.zhzh{
+	width: 1200px;
+	height:1450px;
+	background: #fff;
+	margin:0 auto;
+}
+.zh{
+	width: 1100px;
+	height:97px;
+	margin:0 auto;
+	padding-top:38px;
+}
+.zh p{
+	text-align: center;
+	font-size: 24px;
+	color:#333;
+	margin-bottom: 12px;
+}
+.zh li{
+	float:left;
+	font-size: 12px;
+}
+.zh li:first-child{
+	color:#828181;
+	margin-left:400px; 
+	margin-right:152px;
+}
+.zh li:last-child{ 
+	margin-right:90px;
+}
+.zh ul{
+	padding-bottom: 25px;
+	border-bottom:1px dashed #eaeaea;
+}
+.jijian{
+	color:#434343;
+	margin:49px 59px 49px 50px;
+	text-indent: 2em;
+	line-height:1.5em;
+}
+.zhzh img{
+	margin-left:186px;
+}
+.yuanjian{
+	text-align: center;
+	color:#3b3b3b;
+	font-size: 14px;
+	margin-bottom: 47px;
+}
+.duan{
+	margin-left:50px;
+	margin-right:50px;
+	text-indent: 2em;
+	line-height:1.5em;
+	color:#434343;
+}
+.lian{
+	margin-top:112px;
+	font-size: 14px;
+	margin-left:50px;
+}
+.lanan{
+	margin-top:10px;
+	font-size: 14px;
+	margin-left:50px;
+}
+/**/
+.blu{
+	width:100%;
+	height:60px;
+	background: #0b4199;
+}
+.blue{
+	width:1200px;
+	height:60px;
+	margin:0 auto;
+}
+.lan{
+	float:left;
+}
+.lan li{
+	float:left;
+}
+.bl1{
+	margin-top:10px;
+}
+.bl2{
+	margin-top:19px;
+	margin-right:157px;
+	margin-left:2px;
+	font-size:18px;
+	color:#ffffff;
+}
+.bl3{
+	margin-top:11px;
+}
+.bl4{
+	margin-top:18px;
+	color:#ffffff;
+}
+.lan2{
+	float:right;
+}
+.lan2 li{
+	float:left;
+}
+.lann1{
+	margin-top:14px;
+	font-size:#ffffff;
+}
+.lann2,.lann3,.lann4{
+	margin-left:10px;
+	margin-top:10px;
+}
+/**/
+/**/
+.bobobo{
+	width:100%;
+	height:303px;
+	background: #454545;
+}
+.bobo{
+	width:1200px;
+	height:303px;
+	margin:0 auto;
+	position:relative;
+}
+.bobo ul{
+	margin-right:67px;
+	color:#ffffff;
+	float:left;
+	font-size:14px;
+}
+.boo{
+	margin-top:55px;
+}
+.zuihou1{
+	font-size:16px;
+	margin-bottom:22px;
+}
+.zuihou2,.zuihou3,.zuihou4,.zuihou5{
+	margin-top:7px;
+}
+.bobo ul:last-child{
+	float:right;
+}
+.log1{
+	margin-top:32px;
+}
+.log3{
+	margin-top:27px;
+	font-size:12px;
+}
+.log4,.log6{
+	margin-top:9px;
+	margin-bottom:14px;
+	padding-left:55px;
+	font-size:12px;
+}
+.log5{
+	font-size:12px;
+	padding-left:25px;
+}
+.log6{
+	font-size:12px;
+}
+.bott1{
+	position:absolute;
+	bottom:15px;
+	left:135px;
+	font-size: 12px;
+}
+.bott2{
+	position:absolute;
+	bottom:15px;
+	right:145px;
+	font-size: 12px;
+}
