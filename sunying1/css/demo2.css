@@ -1,0 +1,307 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.part1{
+	height: 153px;
+}
+.header{
+	height: 153px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.img1{
+	margin-top: 31px;
+}
+.img2{
+	margin-left: 20px;
+	margin-top: 47px;
+}
+.header img{
+	float: left;
+}
+.tel{
+	float: left;
+	margin: 0 auto;
+	margin-top: 55px;
+	margin-left: 200px;
+	font-size: 22px;
+	color: #0b4199;
+}
+.Chinese{
+	float: left;
+	color: #9a9a9a;
+	margin-left: 30px;
+	margin-top: 57px;
+	font-size: 16px;
+}
+.nav1 li{
+	float: left;
+	padding-left: 2px;
+	padding-right: 8px;
+	background: url(../images/line1.png) no-repeat right;
+}
+.nav1 li:last-child{
+	background: none;
+}
+.nav1 li img{
+	float: right;
+}
+.nav1{
+	float: left;
+	margin-top: 57px;
+	margin-left: 20px;
+	color: #9a9a9a;
+	font-size: 16px;
+}
+.nav1 li:first-child{
+	color: #ef2c34;
+}
+.nav2{
+	padding-top: 103px;
+}
+.nav2 li{
+	float: left;
+	padding-right:35px; 
+}
+.nav2 div{
+	font-size: 16px;
+	line-height: 42px;
+	text-align: center;
+    width: 82px;
+    height: 50px;
+}
+.chanpin{
+	color: #fff;
+	background-color: #2756a4;
+}
+.sousuo{
+	float: right;
+	width: 253px;
+	height: 37px;
+	background: url(../images/search.png) no-repeat right;
+}
+.part2{
+	height: 2857px;
+	background-color: #f9f9f9;
+}
+.float{
+	position: fixed;
+	top: 288px;
+	right: 60px;
+}
+.part2{
+	height: 2857px;
+	background-color: #f9f9f9;
+}
+.hea0{
+	width:100%;
+	background: #f9f9f9;
+}
+.hea11{
+	width:1200px;
+	margin:0 auto;
+	padding-top:15px;
+	font-size:14px;
+}
+.hea1 span:first-child{
+	color:#999999;
+}
+.hea1 span:last-child{
+	color:#2756a4;
+}
+.hea2{
+	margin-top:68px;
+}
+.hea2 p:first-child{
+	color:#3e3e3e;
+	margin-bottom: 15px;
+	font-size:24px;
+}
+.hea2 p:last-child{
+	color:#6666666;
+	padding-bottom: 14px;
+	font-size:14px;
+	border-bottom: 1px dashed #cdcdcd;
+}
+.hea3{
+	height: 994px;
+	width:100%;
+	background-color: #f9f9f9; 
+	padding-top: 22px;
+	padding-bottom: 50px;
+}
+.hea4{
+	width: 1200px;
+	margin:0 auto;
+}
+.hea5{
+	width: 1200px;
+	height: 129px;
+	margin:0 auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 50px;
+}
+.hea5 p{
+	font-size: 20px;
+	color: #2756a4;
+	padding-bottom: 20px;
+}
+.hea5 span{
+	font-size: 16px;
+	color: #666666;
+	line-height: 1.5;
+}
+.hea6{
+	width: 1200px;
+	margin: 0 auto;
+
+}
+.hea7{
+	height: 500px;
+	width: 285px;
+	background-color: #ffffff;
+}
+.hea7 img{
+	padding-top: 15px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+
+}
+.hea8{
+	padding-bottom: 15px;
+	margin-left: 10px;
+	text-align: center;
+	color: #2756a4;
+	border-bottom: 1px dashed #cdcdcd;
+}
+.hea9{
+	color: #2756a4;
+	margin-left: 10px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	border-bottom: 1px dashed #cdcdcd;
+}
+.hea10{
+	margin-left: 18px;
+	float: left;
+}
+.hea12{
+	float: left;
+}
+.blu{
+	width:100%;
+	height:60px;
+	background: #0b4199;
+}
+.blue{
+	width:1200px;
+	height:60px;
+	margin:0 auto;
+}
+.lan{
+	float:left;
+}
+.lan li{
+	float:left;
+}
+.bl1{
+	margin-top:10px;
+}
+.bl2{
+	margin-top:19px;
+	margin-right:157px;
+	margin-left:2px;
+	font-size:18px;
+	color:#ffffff;
+}
+.bl3{
+	margin-top:11px;
+}
+.bl4{
+	margin-top:18px;
+	color:#ffffff;
+}
+.lan2{
+	float:right;
+}
+.lan2 li{
+	float:left;
+}
+.lann1{
+	margin-top:14px;
+	font-size:#ffffff;
+}
+.lann2,.lann3,.lann4{
+	margin-left:10px;
+	margin-top:10px;
+}
+.bobobo{
+	width:100%;
+	height:303px;
+	background: #454545;
+}
+.bobo{
+	width:1200px;
+	height:303px;
+	margin:0 auto;
+	position:relative;
+}
+.bobo ul{
+	margin-right:67px;
+	color:#ffffff;
+	float:left;
+	font-size:14px;
+}
+.boo{
+	margin-top:55px;
+}
+.zuihou1{
+	font-size:16px;
+	margin-bottom:22px;
+}
+.zuihou2,.zuihou3,.zuihou4,.zuihou5{
+	margin-top:7px;
+}
+.bobo ul:last-child{
+	float:right;
+}
+.logo1{
+	margin-top:32px;
+}
+.logo3{
+	margin-top:27px;
+	font-size:12px;
+}
+.logo4,.logo6{
+	margin-top:9px;
+	margin-bottom:14px;
+	padding-left:55px;
+	font-size:12px;
+}
+.logo5{
+	font-size:12px;
+	padding-left:25px;
+}
+.logo6{
+	font-size:12px;
+}
+.bott1{
+	position:absolute;
+	bottom:15px;
+	left:135px;
+	font-size: 12px;
+}
+.bott2{
+	position:absolute;
+	bottom:15px;
+	right:145px;
+	font-size: 12px;
+}
