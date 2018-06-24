@@ -78,16 +78,16 @@ a{
 	font-family: '微软雅黑';
 }
 .first{
-	padding-right: 186px;
+	padding-right:67px;
+}
+.second{
+	padding-right: 51px;
 }
 .third{
 	padding-right: 52px;
 }
 .four{
-	padding-right: 44px;
-}
-.five{
-	padding-right: 46px;
+	padding-right: 170px;
 }
 .six{
 	padding-right: 51px;
@@ -98,23 +98,23 @@ a{
 .eight{
 	padding-right: 78px;
 }
-.sousuo{
-	position: absolute;
-	top: 109px;
-	right: 0px;
-}
-.second{
-	width: 80px;
+.five{
+	width: 100px;
 	height: 30px;
 	background-color: #2756a4;
 	text-align: center;
 	padding-top: 14px;
 	position: absolute;
 	top: 110px;
-	left: 88px;
+	left: 442px;
 	font-size: 16px;
 	font-family: '微软雅黑';
 	color: white;
+}
+.sousuo{
+	position: absolute;
+	top: 109px;
+	right: 0px;
 }
 /*header结束*/
 /*body开始*/
