@@ -78,7 +78,7 @@ a{
 	font-family: '微软雅黑';
 }
 .first{
-	padding-right: 186px;
+	padding-right: 67px;
 }
 .third{
 	padding-right: 52px;
@@ -95,15 +95,15 @@ a{
 .seven{
 	padding-right: 54px;
 }
-.eight{
-	padding-right: 78px;
+.second{
+	padding-right: 51px;
 }
 .sousuo{
 	position: absolute;
 	top: 109px;
 	right: 0px;
 }
-.second{
+.eight{
 	width: 80px;
 	height: 30px;
 	background-color: #2756a4;
@@ -111,7 +111,7 @@ a{
 	padding-top: 14px;
 	position: absolute;
 	top: 110px;
-	left: 88px;
+	left: 810px;
 	font-size: 16px;
 	font-family: '微软雅黑';
 	color: white;
