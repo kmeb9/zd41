@@ -1,0 +1,447 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration: none;
+}
+.clear:after{
+	content:"";
+	height:0px;
+	display:block;
+	clear:both;
+}
+.piao{
+	position: fixed;
+	top:288px;
+	right:60px;
+}
+.part1{
+	height: 153px;
+	width:100%;
+}
+.header2{
+	height: 153px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.img1{
+	margin-top: 31px;
+}
+.img2{
+	margin-left: 20px;
+	margin-top: 47px;
+}
+.header2 img{
+	float: left;
+}
+.tel{
+	float: left;
+	margin: 0 auto;
+	margin-top: 55px;
+	margin-left: 200px;
+	font-size: 22px;
+	color: #0b4199;
+}
+.Chinese{
+	float: left;
+	color: #9a9a9a;
+	margin-left: 30px;
+	margin-top: 57px;
+	font-size: 16px;
+}
+.nav1 li{
+	float: left;
+	padding-left: 2px;
+	padding-right: 8px;
+	background: url(../images/zline1.png) no-repeat right;
+}
+.nav1 li:last-child{
+	background: none;
+}
+.nav1 li img{
+	float: right;
+}
+.nav1{
+	float: left;
+	margin-top: 57px;
+	margin-left: 20px;
+	color: #9a9a9a;
+	font-size: 16px;
+}
+.nav1 li:first-child{
+	color: #ef2c34;
+}
+.nav2{
+	padding-top: 103px;
+}
+.nav2 li{
+	float: left;
+	padding-right:35px; 
+}
+.nav2 div{
+	font-size: 16px;
+	line-height: 42px;
+	text-align: center;
+    width: 82px;
+    height: 50px;
+}
+.chanpin{
+	color: #fff;
+	background-color: #2756a4;
+}
+.sousuo{
+	float: right;
+	width: 253px;
+	height: 37px;
+	background: url(../images/zsousuo.png) no-repeat right;
+}
+
+
+
+.header{
+	width:100%;
+	background: #f9f9f9;
+	height:234px;
+}
+.hea11{
+	width:1200px;
+	margin:0 auto;
+	padding-top:15px;
+	font-size:14px;
+}
+.hea1 span:first-child{
+	color:#999999;
+}
+.hea1 span:last-child{
+	color:#2756a4;
+}
+.hea2{
+	margin-top:68px;
+	
+}
+.hea2 p:first-child{
+	color:#3e3e3e;
+	font-size:24px;
+}
+.hea2 p:last-child{
+	color:#6666666;
+	font-size:14px;
+}
+.haha{
+	width:1200px;
+	height:34px;
+	margin:0 auto;
+	padding-top: 38px;
+}
+.haha p{
+	float:left;
+}
+.hea3{
+	height:34px;
+	line-height: 34px;
+}
+.hea4{
+	width:309px;
+	height:34px;
+	border:1px solid #b0b0b0; 
+	background: url(../images/hea1.jpg) no-repeat right center;
+}
+/*header结束*/
+/**/
+.zhong{
+	width:100%;
+	height:59px;
+	background: #f9f9f9;
+}
+.zhong1{
+	width:1200px;
+	height:59px;
+	margin:0 auto;
+	padding-top:13px;
+}
+.zhong1 li{
+	float:left;
+	width:400px;
+	text-align:center;
+	line-height: 42px;
+	background: #5e5d5d;
+	border-bottom:14px solid #0b4199;
+	color:#ffffff;
+	font-weight: bold;
+}
+.zhong1 li:last-child{
+	background: #0b4199;
+}
+/**/
+.sobig{
+	width:100%;
+	height:1311px;
+	background: #f9f9f9;
+}
+.so1{
+	width:1200px;
+	height:1311px;
+	background: white;
+	margin:0 auto;
+}
+.right{
+	float:right;
+	width:782px;
+	margin-right:19px;
+}
+.fufu{
+	position: relative;
+}
+.fu1{
+	position: absolute;
+	top:3px;
+	right:0px;
+	color: #2756a4;
+}
+.fu2{
+	position: absolute;
+	top:25px;
+	right:0px;
+	color: #2756a4;
+}
+.right li{
+	width:782px;
+}
+.lap{
+	font-size:14px;
+	padding-bottom:29px;
+	border-bottom:2px solid #d0d2d1;
+	line-height:21px;
+	color:#3e3e3e;
+}
+.firp{
+	font-weight: bold;
+	margin-top:33px;
+	margin-bottom:29px;
+	line-height: 22px;
+}
+.left{
+	width:301px;
+	height:33px;
+	background: #dcf3ff;
+	margin-top:29px;
+	float:left;
+	margin-left:19px;
+}
+.left p{
+	margin-top:7px;
+	margin-left:22px;
+	color:#3e3e3e;
+}
+.left li{
+	margin-bottom:13px;
+	color:#333333;
+}
+.left ul{
+	margin-top:24px;
+	margin-left:22px;
+}
+.left li:first-child{
+	color:#ed1c24;
+}
+/**/
+/**/
+.low{
+	width:100%;
+	height:109px;
+	padding-top:41px;
+	background: #f9f9f9;
+}
+.low ul{
+	width:720px;
+	margin:0 auto;
+	height:24px;
+}
+.low li{
+	float:left;
+	padding-top:2px;
+	font-size:12px;
+}
+.a1{
+	width:56px;
+	height:22px;
+	border:1px solid #b5b5b5;
+	border-radius: 6px;
+	padding-left:8px;
+	padding-right:6px;
+	margin-right:4px;
+	margin-left:5px;
+}
+.a1,.a2{
+	color:#c8c8c8;
+}
+.a2{
+	width:58px;
+	height:20px;
+	border:1px solid #b5b5b5;
+	border-radius: 6px;
+	padding-left:14px;
+	padding-right:4px;
+	background:url(../images/zfangxiang.jpg) no-repeat left center;
+}
+.a3{
+	width:30px;
+	height:18px;
+	text-align: center;
+}
+.a4,.a5,.a6,.a7,.a8,.a9{
+	width:22px;
+	height:21px;
+	border:1px solid #b5b5b5;
+	border-radius: 6px;
+	text-align: center;
+	margin-right: 6px;
+	color:#2c53a0;
+}
+.a10{
+	width:57px;
+	height:20px;
+	padding-left: 4px
+	padding-right:12px;
+	border:1px solid #b5b5b5;
+	border-radius: 6px;
+	background: url(../images/zfangxiang2.jpg) no-repeat right center;
+}
+.a11{
+	width:57px;
+	height:21px;
+	padding-left:10px;
+	border:1px solid #b5b5b5;
+	border-radius: 6px;
+	margin-right:36px;
+	margin-left:5px;
+}
+.a12{
+	width:57px;
+	height:21px;
+}
+.a13{
+	width:57px;
+	height:20px;
+	background: url(../images/zfangxiang3.jpg) no-repeat right center;
+	border:1px solid #b5b5b5;
+	border-radius: 6px;
+	margin-right:6px;
+	margin-left:5px;
+}
+/**/
+.blu{
+	width:100%;
+	height:60px;
+	background: #0b4199;
+}
+.blue{
+	width:1200px;
+	height:60px;
+	margin:0 auto;
+}
+.lan{
+	float:left;
+}
+.lan li{
+	float:left;
+}
+.bl1{
+	margin-top:10px;
+}
+.bl2{
+	margin-top:19px;
+	margin-right:157px;
+	margin-left:2px;
+	font-size:18px;
+	color:#ffffff;
+}
+.bl3{
+	margin-top:11px;
+}
+.bl4{
+	margin-top:18px;
+	color:#ffffff;
+}
+.lan2{
+	float:right;
+}
+.lan2 li{
+	float:left;
+}
+.lann1{
+	margin-top:14px;
+	font-size:#ffffff;
+}
+.lann2,.lann3,.lann4{
+	margin-left:10px;
+	margin-top:10px;
+}
+/**/
+/**/
+.bobobo{
+	width:100%;
+	height:303px;
+	background: #454545;
+}
+.bobo{
+	width:1200px;
+	height:303px;
+	margin:0 auto;
+	position:relative;
+}
+.bobo ul{
+	margin-right:67px;
+	color:#ffffff;
+	float:left;
+	font-size:14px;
+}
+.boo{
+	margin-top:55px;
+}
+.zuihou1{
+	font-size:16px;
+	margin-bottom:22px;
+}
+.zuihou2,.zuihou3,.zuihou4,.zuihou5{
+	margin-top:7px;
+}
+.bobo ul:last-child{
+	float:right;
+}
+.log1{
+	margin-top:32px;
+}
+.log3{
+	margin-top:27px;
+	font-size:12px;
+}
+.log4,.log6{
+	margin-top:9px;
+	margin-bottom:14px;
+	padding-left:55px;
+	font-size:12px;
+}
+.log5{
+	font-size:12px;
+	padding-left:25px;
+}
+.log6{
+	font-size:12px;
+}
+.bott1{
+	position:absolute;
+	bottom:15px;
+	left:135px;
+	font-size: 12px;
+}
+.bott2{
+	position:absolute;
+	bottom:15px;
+	right:145px;
+	font-size: 12px;
+}
